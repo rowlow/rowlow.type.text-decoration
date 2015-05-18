@@ -1,6 +1,6 @@
 # rowlow.type.text-decoration
 
-A util to take control over text decorations via CSS selectors
+A text util to take control over text decorations via CSS selectors
 
 ## Install
 
