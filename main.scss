@@ -1,0 +1,21 @@
+@import 'settings';
+@import 'mixins';
+@import 'functions';
+
+
+.#{$rowlow-text-decoration-namespace}text-decoration--line-through{
+	text-decoration: line-through !important;
+}
+
+.#{$rowlow-text-decoration-namespace}text-decoration--underline{
+	text-decoration: underline !important;
+}
+
+.#{$rowlow-text-decoration-namespace}text-decoration--overline{
+	text-decoration: overline !important;
+}
+
+.#{$rowlow-text-transform-namespace}text-decoration--none{
+	text-transform: none !important;
+}
+
